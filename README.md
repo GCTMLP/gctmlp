@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🏠 I live in Moscow, Russia
 - 🤖 I'm writing on Python and JS (Vue). Sometimes Go.
-- ✏️ My articles on 
+- ✏️ My articles on https://habr.com/ru/users/GCTMLP/
 - 🏫 Higher education
 - 🔗 Linkedin profile 
 
